@@ -57,7 +57,7 @@ body {
   border: 3px solid #edecfc;
   width: 100px;
   height: 100px;
-  background-image: url("images/personal.JPG");
+  background-image: url("./images/personal.JPG");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 50% 50%;
